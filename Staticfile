@@ -1,0 +1,3 @@
+root: public/dist
+directory: visible
+pushstate: enabled
